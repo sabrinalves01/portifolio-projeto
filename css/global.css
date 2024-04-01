@@ -1,0 +1,24 @@
+body {
+    font-family: 'Poppins';
+    margin: 0px;
+    color: #74747C;
+    background-color: #FFF6F2;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
